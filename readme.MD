@@ -1,6 +1,6 @@
 # Project Title
 
-This project is called 'The Bankist App' and it was built as part of of my Front End Dev learning journey. It demonstrate some of of the skills learned so far in using HTML, CSS and JS.
+This project is called 'The Bankist App' and it was built as part of my Front End Dev learning journey. It demonstrates some of the skills learned so far in using HTML, CSS, and JS. The app can be used with the following credentials: sl 1111, jd 2222
 
 ## App features
 
@@ -36,7 +36,7 @@ I built the app following the flowchart to help visualizing the process. The pro
 - Creating dates and operations with dates
 - Internationalizing dates
 - Internationalizing numbers
-- Timers : setTimeout and setIntervals
+- Timers: setTimeout and setIntervals
 
 ## Screenshot
 
@@ -44,4 +44,4 @@ I built the app following the flowchart to help visualizing the process. The pro
 
 ## Aknowledgements
 
-This project was created as part of Jonas Schmedtmann's 'The complete JavaScript Course'
+This project was created as part of Jonas Schmedtmann's 'The Complete JavaScript Course'
